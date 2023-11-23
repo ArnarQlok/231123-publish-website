@@ -1,0 +1,9 @@
+body {
+  background-color: cornflowerblue;
+  background-image: url("../images/cat.jpg");
+  background-size: cover;
+}
+
+img {
+  width: 50%;
+}
